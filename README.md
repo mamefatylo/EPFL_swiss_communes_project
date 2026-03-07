@@ -1,7 +1,7 @@
 # Swiss Communes — Exploratory Data Analysis
 
 ## Overview
-Exploratory data analysis of 2,202 Swiss communes using demographic, geographic, and land use data, completed as part of the EPFL Extension School Applied Data Science: Machine Learning programme.
+Exploratory data analysis of 2,202 Swiss communes using demographic, geographic, and land use data, completed as part of the EPFL Extension School Applied Data Science: Machine Learning course.
 
 The analysis establishes structural and data integrity checks before conducting numerical and visual exploration. Key findings include: Zürich as the most populated commune with a population more than double that of second-ranked Genève; Basel-Stadt as the densest canton driven by its exceptionally small land area; and Graubünden as the least dense despite a larger population than Basel-Stadt, owing to its vast territory. Settlement allocation does not follow population ranking; Lugano, despite ranking 9th in population, records the lowest Settlement proportion among the top 10 communes, with land dominated by Wooded and Unproductive areas.
 
